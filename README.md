@@ -1,4 +1,5 @@
 # Megaline-Plan-Recommendations
+![39_orange_sim](https://user-images.githubusercontent.com/115895428/229785492-7fb8baef-9947-466d-8ea9-07f0adf476ea.png)
 
 ## Skills Demonstrated
     Pandas
